@@ -1,1 +1,1 @@
-{"sha":"0e5ee3b4743ec73f3d847c68401b922f37cba05c","message":"Antimatter: make the progress bar readable.","author":"Keith"}
+{"sha":"a2ab636f18bdee39cca4251aade3cb800b6cb249","message":"Antimatter: makeprogress bar truncate value to stop it beeping over and over each update.","author":"Keith"}
