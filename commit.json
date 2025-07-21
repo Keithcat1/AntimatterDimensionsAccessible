@@ -1,1 +1,1 @@
-{"sha":"0b01a507b3d93c878831517bd7c3efe32c991bb7","message":"Multiplier breakdown tree: some refactoring\n\nUp arrow now moves you into expanded children.","author":"Keith"}
+{"sha":"31286e78ee7117538c8d768d8480ab63780b0ac1","message":"Multiplier tree: manage tab index properly\n\nFirst tree item gets it on mount, it moves aroubd as you do","author":"Keith"}
