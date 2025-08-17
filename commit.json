@@ -1,1 +1,1 @@
-{"sha":"c2a7bca50839da3eb767a0fd7b9d1b9cdcecf6ad","message":"Multiplier breakdown: Add option to display powers as multipliers\n\nAlso show empty when, infact, empty. Not happy with how messy the code is.","author":"Keith"}
+{"sha":"121423db918f6a2d83f04463170c538cd2a5d1c4","message":"Perks tree: remove advanced tree view for the time being\n\nIt's buggy and doesn't handle cycles, and the basic one is still there so perks can be bought","author":"Keith"}
