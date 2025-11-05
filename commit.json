@@ -1,1 +1,1 @@
-{"sha":"121423db918f6a2d83f04463170c538cd2a5d1c4","message":"Perks tree: remove advanced tree view for the time being\n\nIt's buggy and doesn't handle cycles, and the basic one is still there so perks can be bought","author":"Keith"}
+{"sha":"bea9d3c61572d6dae9b025de59fd5a42c84fc8dd","message":"Perks: fix error","author":"Keith"}
